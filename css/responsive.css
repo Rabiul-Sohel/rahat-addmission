@@ -1,0 +1,28 @@
+@media only screen and (min-width:200px) and (max-width:540px){
+#header_area {
+        
+    }
+    .title_area h1 {
+        font-size: 24px;
+    }
+    .inner_info {
+      
+    }
+    .fas{
+        font-size: 15px;   
+    }
+    .table_area th {
+        padding: 7px 0;
+        font-size: 9px;
+        font-weight: 0;
+    }
+    .table_area td {
+        padding: 2px;
+        font-size: 10px;
+    }
+
+
+
+
+
+}
